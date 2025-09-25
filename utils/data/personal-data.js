@@ -1,0 +1,20 @@
+export const personalData = {
+  name: "Shohijahon Sharifov",
+  profile: "/profile.jpg",
+  designation: "Fullstack Developer",
+  description:
+    "I am Shohijahon, a full-stack software developer focused on designing and delivering high-quality, scalable web solutions . My expertise spans both front-end and back-end development, with strong proficiency in Java, JavaScript, and modern frameworks. I enjoy turning complex requirements into clean, efficient code and continuously explore emerging fields such as data engineering and cloud computing to stay ahead of industry trends. My objective is to contribute to large-scale, impactful projects within a global technology company while continually advancing my technical and leadership skills. Currently, I am also a first-year Data Science student at Acharya University" ,
+  email: "toyevshahboz@gmail.com",
+  phone: "+998 95 444 64 46",
+  address: "Uzbekistan, Bukhara",
+  github: "https://github.com/shohijahon07",
+  facebook: "/",
+  linkedIn: "https://www.linkedin.com/in/shohjahon-sharipov-6454a0326/",
+  twitter: "/",
+  instagram: "https://www.instagram.com/shohjahon_sharipovv",
+  stackOverflow: "/",
+  telegram: "https://t.me/shohjahonsharipov",
+  leetcode: "https://leetcode.com/u/OyaELHLC9f/",
+  devUsername: "Shohjahon07",
+  resume: "https://t.me/shohjahonCodelab",
+};
