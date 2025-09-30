@@ -14,22 +14,14 @@ const nextConfig = {
   },
   output: 'export',
   trailingSlash: true,
-  // XATOLARNI CHEKLAB O'TISH UCHUN:
+  // ASSETPREFIX NI O'CHIRING YANA COMMENTGA OLING
+  // assetPrefix: process.env.NODE_ENV === 'production' ? './' : '',
   eslint: {
     ignoreDuringBuilds: true,
   },
   typescript: {
     ignoreBuildErrors: true,
   },
-  experimental: {
-    missingSuspenseWithCSRBailout: false,
-  },
-  // QO'SHIMCHA XAVFSIZLIK:
-  compiler: {
-    removeConsole: process.env.NODE_ENV === 'production', // Productionda console ni olib tashlash
-  },
-  // STATIC FAKLLAR UCHUN:
-  assetPrefix: process.env.NODE_ENV === 'production' ? './' : '',
-};
+}
 
-module.exports = nextConfig;
+module.exports = nextConfig
