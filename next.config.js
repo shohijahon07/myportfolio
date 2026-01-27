@@ -12,10 +12,8 @@ const nextConfig = {
       { protocol: 'https', hostname: 'media.dev.to', pathname: '**' },
     ],
   },
-  output: 'export',
+  // output: 'export',  <-- MANA SHU QATORNI O'CHIRING YOKI SHUNDAY QILIB KOMMENTGA OLING
   trailingSlash: true,
-  // ASSETPREFIX NI O'CHIRING YANA COMMENTGA OLING
-  // assetPrefix: process.env.NODE_ENV === 'production' ? './' : '',
   eslint: {
     ignoreDuringBuilds: true,
   },
