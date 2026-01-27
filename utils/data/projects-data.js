@@ -38,9 +38,9 @@ export const projectsData = [
       "Spring-Security",
       "Telegram Bot (Longpooling)",
     ],
-    role: "FullStack Developer",
+    role: "FullStack Developer ",
     code: "",
-    demo: "https://zesty-happiness-production-ca78.up.railway.app/",
+    demo: "https://backenddeploymend-production-506d.up.railway.app/",
     image: image2,
   },
   {
