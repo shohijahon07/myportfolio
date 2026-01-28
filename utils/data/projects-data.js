@@ -1,5 +1,5 @@
 import image1 from "/public/projects-image/mr.jpg" ;
-import image2 from "/public/projects-image/Annotation 2025-09-18 235518.jpg";
+import image2 from "/public/projects-image/Annotation 2025-09-18 235518.png";
 import image3 from "/public/projects-image/photo_2025-06-14_06-16-50.jpg";
 import image4 from "/public/projects-image/press.jpg";
 import image5 from "/public/projects-image/test.jpg";
