@@ -14,7 +14,7 @@ export const educations = [
   } ,
   {
     id: 3 ,
-    title: "Academy",
+    title: "Full-stack developer",
     duration: "2023-2024",
     institution: "Shift Acedemy",
   }
