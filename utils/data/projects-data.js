@@ -39,8 +39,8 @@ export const projectsData = [
       "Telegram Bot (Longpooling)",
     ],
     role: "FullStack Developer ",
-    code: "",
-    demo: "https://backenddeploymend-production-506d.up.railway.app/",
+    code: "https://github.com/shohijahon07/Intercity_Taxi_Project.git",
+    demo: "https://shohijahon-dev.uz/",
     image: image2,
   },
   {
@@ -53,7 +53,7 @@ export const projectsData = [
   
     tools: ["Telegram_bot (Longpooling)"],
     role: "Startup Founder & Developer",
-    code: "",
+    code: "https://github.com/shohijahon07/BodyBalance.git",
     demo: "https://t.me/SemizlikTest_bot",
     image: image3,
   }

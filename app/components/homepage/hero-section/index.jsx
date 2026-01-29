@@ -126,33 +126,79 @@ function HeroSection() {
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div className="ml-4 lg:ml-8 mr-2">
-                <span className=" text-white">skills:</span>
+                <span className="text-white">skills:</span>
                 <span className="text-gray-400">{`['`}</span>
-                <span className="text-amber-300">React</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">JavaScript</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300"></span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redus-Saga</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Redux-Toolkit</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Postgresql</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Telegraf</span>
-                <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">MongoDB</span>
-                <span className="text-gray-400">{"', '"}</span>
+
                 <span className="text-amber-300">Java</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Spring-Boot</span>
+
+                <span className="text-amber-300">JavaScript</span>
                 <span className="text-gray-400">{"', '"}</span>
-                <span className="text-amber-300">Spring-Security</span>
-                
+
+                <span className="text-amber-300">TypeScript</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">C</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">React</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">HTML5</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">CSS3</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Tailwind CSS</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Axios</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Redux Toolkit</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Redux Saga</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Spring Boot</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Spring Security</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">JPA / Hibernate</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">JWT Authentication</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">PostgreSQL</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">MongoDB</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Telegram Bot API</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Webhook / Long Polling</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">AWS (EC2, RDS)</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Railway / Render</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Maven</span>
+                <span className="text-gray-400">{"', '"}</span>
+
+                <span className="text-amber-300">Git & GitHub</span>
+
                 <span className="text-gray-400">{"'],"}</span>
+
               </div>
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">
