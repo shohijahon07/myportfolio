@@ -12,7 +12,7 @@ const nextConfig = {
       { protocol: 'https', hostname: 'media.dev.to', pathname: '**' },
     ],
   },
-  // output: 'export',  <-- MANA SHU QATORNI O'CHIRING YOKI SHUNDAY QILIB KOMMENTGA OLING
+  output: 'export',  
   trailingSlash: true,
   eslint: {
     ignoreDuringBuilds: true,
