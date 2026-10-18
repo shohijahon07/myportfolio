@@ -12,7 +12,6 @@ const nextConfig = {
       { protocol: 'https', hostname: 'media.dev.to', pathname: '**' },
     ],
   },
-  output: 'export',  
   trailingSlash: true,
   eslint: {
     ignoreDuringBuilds: true,
