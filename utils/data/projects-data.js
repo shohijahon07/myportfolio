@@ -12,6 +12,9 @@ import image11 from "/public/projects-image/ecommece.jpg";
 import image12 from "/public/projects-image/messanger.jpg";
 import image13 from "/public/projects-image/image.jpg";
 import image14 from "/public/projects-image/olx.jpg";
+import image15 from "/public/projects-image/burgesta.jpg";
+import image16 from "/public/projects-image/burgesta-menu.jpg";
+import image17 from "/public/projects-image/yamato-menu.jpg";
 
 export const projectsData = [
   {
@@ -56,6 +59,39 @@ export const projectsData = [
     code: "https://github.com/shohijahon07/BodyBalance.git",
     demo: "https://t.me/SemizlikTest_bot",
     image: image3,
+  },
+  {
+    id: 4,
+    name: "Burgesta — Restaurant Landing Page",
+    description:
+      "A motion-first marketing landing page for Burgesta, a burger restaurant chain in Tashkent. The hero section uses a 200+ frame image sequence scrubbed by scroll position, giving the burger a cinematic, app-like feel instead of a static hero image. Key Highlights: Custom scroll-driven frame animation (no video file, just synced JPEG frames for crisp quality and small payload). Full UZ/RU/EN localization with instant language switching. Vite-powered React build for fast loads and smooth 60fps scrolling. Deployed on Railway with automatic redeploys on push. This project shows my front-end performance and motion-design skills beyond standard CRUD interfaces.",
+    tools: ["ReactJS", "Vite", "Scroll Animation", "i18n", "Railway"],
+    role: "Frontend Developer",
+    code: "",
+    demo: "https://burgesta.uz/",
+    image: image15,
+  },
+  {
+    id: 5,
+    name: "Burgesta — QR Digital Menu",
+    description:
+      "A production QR-code digital menu for Burgesta: guests scan the table QR code, browse 90+ dishes across categories (combo, burger, salad, drinks and more) with photos, weight/calorie info and live search, then build a cart to show the waiter — a fully payment-free dine-in flow. A secured public REST API (categories, dishes, gallery) drives multi-language content and a light/dark theme toggle. Key Highlights: Spring Security-protected REST API consumed by a React SPA. Category + search based catalog with instant filtering. Two-service deployment (API + frontend) on Heroku. Part of a reusable digital-menu product line I've built for multiple restaurants (see also YAMATO below).",
+    tools: ["ReactJS", "Vite", "Java", "Spring-Boot", "Spring-Security", "REST API", "Heroku"],
+    role: "Full-Stack Developer",
+    code: "",
+    demo: "https://burgesta-menu.uz/",
+    image: image16,
+  },
+  {
+    id: 6,
+    name: "YAMATO — Pan-Asian Restaurant Digital Menu",
+    description:
+      "A full production QR-code digital menu for YAMATO (大和), a Pan-Asian restaurant in Tashkent. Guests scan a table QR code, browse the menu in 6 languages (UZ/RU/EN/ZH/KO/JA), build a cart and tap 'Show to waiter' — no online payment, built around how the restaurant actually operates. Ships with an admin panel for managing dishes, categories, images and per-language translations, with at-a-glance completeness indicators for each locale. Key Highlights: Spring Boot 3 (Java 21) + PostgreSQL + Flyway REST API. React, TypeScript, Vite and Tailwind CSS frontend, zero hardcoded UI strings (enforced by a custom i18n-completeness check). Dockerized backend + frontend for one-command deployment. Designed, built and shipped end-to-end using an AI-agent-assisted development workflow (Claude Code) — architecture, backend, frontend and tests in a single focused session, reflecting how I use modern AI tooling to ship production-grade full-stack products faster without cutting corners on quality.",
+    tools: ["ReactJS", "TypeScript", "Vite", "TailwindCSS", "Java", "Spring-Boot", "Spring-Security", "Postgresql", "Docker", "AI Agent (Claude Code)"],
+    role: "Full-Stack Developer / AI-assisted Engineering",
+    code: "",
+    demo: "https://yamato-menu.uz/",
+    image: image17,
   }
 
 ];
