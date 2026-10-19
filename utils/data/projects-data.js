@@ -65,7 +65,7 @@ export const projectsData = [
     ],
     role: "FullStack Developer ",
     code: "https://github.com/shohijahon07/Intercity_Taxi_Project.git",
-    demo: "https://shohijahon-dev.uz/",
+    demo: "https://startuptaxi-app-project-f3bf3b31abbb.herokuapp.com/",
     image: image2,
   },
   {
